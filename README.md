@@ -21,7 +21,7 @@ details on your rights to use the actual data downloaded. Remember - the
 Yahoo! finance API is intended for personal use only.**
 
 </td></tr></table>
-
+ 
 ---
 
 <a target="new" href="https://pypi.python.org/pypi/yfinance"><img border=0 src="https://img.shields.io/badge/python-2.7,%203.6+-blue.svg?style=flat" alt="Python version"></a>
